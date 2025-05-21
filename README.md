@@ -74,7 +74,7 @@ A fully open-source First Person View drone designed and built on KiCad, featuri
 
 ## 🎯 Goals for 2025
 
-- [ ] Complete FPV Flight Computer **PCB**
+- [x] Complete FPV Flight Computer **PCB**
 
 
 - [ ] Attain certification in <b>Anyss HFSS</b>
