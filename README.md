@@ -14,7 +14,7 @@
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
 
 ## 📌 Featured Project
-### <a href="https://github.com/your-username/fpv-drone">🚁 STM32 FPV Drone</a>
+### <a href="https://github.com/FPV-Drone-STM32F411/DroneController">🚁 STM32 FPV Drone</a>
 
 A fully open-source First Person View drone designed and built on KiCad, featuring custom PCB design and use of open-source firmware.
 <details>
