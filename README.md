@@ -1,4 +1,4 @@
-# Hi there, I'm Evan!
+# Hello there, I'm Evan!
 
 <h6 align="center">🎓 Electrical Engineering | ⚡ Analog and RF Enthusiast | ✈️ Passion for Drones and Avionics |</h6>
 
