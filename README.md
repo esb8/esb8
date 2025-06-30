@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on an [STM32 FPV Flight Computer](https://github.com/FPV-Drone-STM32F411/DroneController)
-- 🌱 I'm currently learning **Analog and RF Engineering**
+- 🌱 I'm currently learning **Analog and RF Design**
 - 💡 I'm passionate about PCB design, embedded systems, **avionics**, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
 
@@ -75,10 +75,8 @@ A fully open-source First Person View drone designed and built on KiCad, featuri
 ## 🎯 Goals for 2025
 
 - [x] Complete FPV Flight Computer **PCB**
-
-
 - [ ] Attain certification in <b>Anyss HFSS</b>
-- [ ] Design various classes of <b>Amplifier Circuits</b>
+- [X] Design various classes of <b>Amplifier Circuits</b>
 - [ ] Build a portfolio of <b>embedded systems</b> projects
 
 
