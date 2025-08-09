@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on an [STM32 FPV](https://github.com/FPV-Drone-STM32F411/DroneController)
+- 🔭 I’m working on an [STM32 FPV Drone](https://github.com/FPV-Drone-STM32F411/DroneController)
 - 🌱 I'm currently learning **Analog and RF Design**
 - 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
