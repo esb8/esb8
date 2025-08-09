@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on an [STM32 FPV Flight Computer](https://github.com/FPV-Drone-STM32F411/DroneController)
 - 🌱 I'm currently learning **Analog and RF Design**
-- 💡 I'm passionate about PCB design, embedded systems, **avionics**, and IoT applications
+- 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
 
 ## 📌 Featured Project
@@ -22,13 +22,14 @@ A fully open-source First Person View drone designed and built on KiCad, featuri
 <br>
 
 <b>Hardware:</b>
-- Custom PCB designed in KiCad (schematic & layout)
+- Custom PCBs designed in KiCad (schematic & layout)
 - STM32F411 microcontroller as the flight computer
 - MPU6500 six-axis IMU for flight stabilization
 - BMP280 barometer for altitude holding
 - L86 GPS module for position tracking
 - SX1276 LoRa transceiver for long-range communication
 - USB-C and 4S LiPo power supply options
+- Electric Speed Controller PCB for BLDC motors
 <br>
 
 <b>Software & Skills:</b>
@@ -74,10 +75,14 @@ A fully open-source First Person View drone designed and built on KiCad, featuri
 
 ## 🎯 Goals for 2025
 
-- [x] Complete FPV Flight Computer **PCB**
-- [ ] Attain certification in <b>Anyss HFSS</b>
+- [ ] Signal integrity PCB project with ANSYS
+- [ ] 433MHz Analog Transmitter PCB project
+- [ ] Build a portfolio of <b>embedded systems and verilog</b> projects
+- [X] Complete FPV BLDC and Flight Computer **PCBs**
+- [X] Design a Voltage Controlled Oscillator
 - [X] Design various classes of <b>Amplifier Circuits</b>
-- [ ] Build a portfolio of <b>embedded systems</b> projects
+
+
 
 
 ## ⚡ Fun fact
