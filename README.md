@@ -1,6 +1,6 @@
 # Hello there, I'm Evan!
 
-<h6 align="center">🎓 Electrical Engineering | ⚡ Analog and RF Enthusiast | ✈️ Passion for Drones and Avionics |</h6>
+<h6 align="center">🎓 Electrical Engineering | ⚡ Mixed-Signal and Analog Design Enthusiast | ✈️ Passion for Drones and Avionics |</h6>
 
 --- 
 
@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m working on an [Engine Control Module](https://github.com/FPV-Drone-STM32F411/DroneController](https://github.com/machtmu/4in-ECM)) for a Liquid Rocket
+- 🔭 I’m working on an [Engine Control Module](https://github.com/machtmu/4in-ECM) for a Liquid Rocket
 - 🌱 I'm currently learning **Analog and RF Design**
 - 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
@@ -96,13 +96,14 @@ An AI powered soft-robotics controller PCB built around an ESP32 with an onboard
 
 
 ## 🎯 Goals for 2025
-
+- [ ] Complete Soft Robotics Codebase
+- [ ] Complete MACH Avionics Stack
 - [ ] Signal integrity PCB project with ANSYS
 - [ ] 433MHz Analog Transmitter PCB project
 - [X] Build a portfolio of <b>embedded systems and verilog</b> projects: see https://github.com/esb8/HDLBits
-- [X] Complete FPV BLDC and Flight Computer **PCBs**
+- [X] Complete FPV BLDC and Flight Computer **PCBs**: see https://github.com/FPV-Drone-STM32F411/DroneController]
 - [X] Design a Voltage Controlled Oscillator: see https://github.com/esb8/Signal-Generator 
-- [X] Design various classes of <b>Amplifier Circuits</b>
+- [X] Design various classes of <b>Amplifier Circuits</b> 
 
 
 
