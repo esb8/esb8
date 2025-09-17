@@ -42,7 +42,7 @@ A fully open-source First Person View drone designed in KiCad, featuring custom 
 
 ### <a href="https://github.com/esb8/Soft-Robotics">🤖 Soft Robotics Control Board</a>
 
-An AI powered soft-robotics controller built around an ESP32 with an onboard camera, driver stages for multiple electromagnets, photoresistor sensing, SPI breakouts, and a UART header for easy flashing.
+An AI powered soft-robotics controller PCB built around an ESP32 with an onboard camera, driver stages for multiple electromagnets, photoresistor sensing, SPI breakouts, and a UART header for easy flashing.
 
 <details>
 <summary><b>Technical Specifications</u></summary>
