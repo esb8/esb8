@@ -99,9 +99,9 @@ An AI powered soft-robotics controller PCB built around an ESP32 with an onboard
 
 - [ ] Signal integrity PCB project with ANSYS
 - [ ] 433MHz Analog Transmitter PCB project
-- [ ] Build a portfolio of <b>embedded systems and verilog</b> projects
+- [X] Build a portfolio of <b>embedded systems and verilog</b> projects: see https://github.com/esb8/HDLBits
 - [X] Complete FPV BLDC and Flight Computer **PCBs**
-- [X] Design a Voltage Controlled Oscillator
+- [X] Design a Voltage Controlled Oscillator: see https://github.com/esb8/Signal-Generator 
 - [X] Design various classes of <b>Amplifier Circuits</b>
 
 
