@@ -8,15 +8,16 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m working on an [STM32 FPV Drone](https://github.com/FPV-Drone-STM32F411/DroneController)
+- 🔭 I’m working on an [Engine Control Module]([https://github.com/FPV-Drone-STM32F411/DroneController](https://github.com/machtmu/4in-ECM)) for a Liquid Rocket
 - 🌱 I'm currently learning **Analog and RF Design**
 - 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
 
-## 📌 Featured Project
+## 📌 Featured Projects
 ### <a href="https://github.com/FPV-Drone-STM32F411/DroneController">🚁 STM32 FPV Drone</a>
 
-A fully open-source First Person View drone designed and built on KiCad, featuring custom PCB design and use of open-source firmware.
+A fully open-source First Person View drone designed in KiCad, featuring custom PCB design and use of open-source STM32 firmware in C.
+
 <details>
 <summary><b>Technical Specifications</u></summary>
 <br>
@@ -37,6 +38,27 @@ A fully open-source First Person View drone designed and built on KiCad, featuri
 - Open Source BetaFlight Firmware
 - PID control loop implementation
 - Fail-safe recovery mechanisms
+</details>
+
+### <a href="https://github.com/esb8/Soft-Robotics">🚁 Soft Robotics Control Board</a>
+
+A soft-robotics controller built around an ESP32 with an onboard camera, driver stages for multiple electromagnets, photoresistor sensing, SPI breakouts, and a UART header for easy flashing.
+
+<details>
+<summary><b>Technical Specifications</u></summary>
+<br>
+
+<b>Hardware:</b>
+- ESP32 (WROOM or WROVER) with camera module (OV2640 or similar)
+- 4–8 electromagnet channels with protected low-side MOSFET drivers (PWM capable)
+- Photoresistor (LDR) inputs with RC dividers → ADC
+- SPI header (3.3V) for add-ons (external ADCs, sensors, or LED drivers)
+- Dedicated UART header for flashing (RTS/DTR optional) + USB-C or JST-PH power
+- Reverse-polarity & transient protection, per-channel flyback/snubbers
+- Buck Regulation for 2S LiPos
+- Mounting + cable-reliefs sized for soft-robotics rigs
+- Full Codebase containing all peripheral test code
+<br>
 </details>
 
 ## 💻 Tech Stack
