@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m working on an [Engine Control Module](https://github.com/machtmu/4in-ECM) for a Liquid Rocket
-- 🌱 I'm currently learning **Analog and RF Design**
+- 🌱 I'm currently learning transistor-level **Analog and RF Design**
 - 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
 
