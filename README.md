@@ -95,11 +95,13 @@ An AI powered soft-robotics controller PCB built around an ESP32 with an onboard
 
 
 
-## 🎯 Goals for 2025
-- [ ] Complete Soft Robotics Codebase
-- [ ] Complete MACH Avionics Stack
-- [ ] Signal integrity PCB project with ANSYS
-- [ ] 433MHz Analog Transmitter PCB project
+## 🎯 Goals for 2026
+- [ ] Complete Stratosphere Avionics Project
+- [ ] Design Down Converter Radio
+- [ ] Design Antenna
+
+
+##⚡ Completed
 - [X] Build a portfolio of <b>embedded systems and verilog</b> projects: see https://github.com/esb8/HDLBits
 - [X] Complete FPV BLDC and Flight Computer **PCBs**: see https://github.com/FPV-Drone-STM32F411/DroneController]
 - [X] Design a Voltage Controlled Oscillator: see https://github.com/esb8/Signal-Generator 
@@ -108,7 +110,7 @@ An AI powered soft-robotics controller PCB built around an ESP32 with an onboard
 
 
 
-## ⚡ Fun fact
+## 💡 Fun fact
 - I'm passionate about Parliamentary Debate and have attended Ontario Engineering Competition twice for debate!
 
 
