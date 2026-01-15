@@ -101,7 +101,7 @@ An AI powered soft-robotics controller PCB built around an ESP32 with an onboard
 - [ ] Design Antenna
 
 
-##⚡ Completed
+## ⚡ Completed
 - [X] Build a portfolio of <b>embedded systems and verilog</b> projects: see https://github.com/esb8/HDLBits
 - [X] Complete FPV BLDC and Flight Computer **PCBs**: see https://github.com/FPV-Drone-STM32F411/DroneController]
 - [X] Design a Voltage Controlled Oscillator: see https://github.com/esb8/Signal-Generator 
