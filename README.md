@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m working on a [Direct Conversion Reciever]([https://github.com/machtmu/4in-ECM](https://github.com/esb8/Direct-Conversion-Reciever) to learn more about Radio!
+- 🔭 I’m working on a [Direct Conversion Reciever](https://github.com/esb8/Direct-Conversion-Reciever) to learn more about Radio!
 - 🌱 I'm currently learning transistor-level **Analog and RF Design**
 - 💡 I'm passionate about Hardware, PCB design, embedded systems, robotics, and IoT applications
 - 📫 Feel free to reach out to me through <a href="evanbhogal05@gmail.com">Gmail</a> or on <a href="https://www.linkedin.com/in/evan-bhogal">Linkedin</a>!
